@@ -14,13 +14,13 @@ It is known to run on Mac and Linux.
 
 # Requirements
 
-In order to use this program you will need the following packages:
-    - bs4
-    - tqdm
-    - pandas
-    - matplotlib
-    - numpy
-    - requests
+In order to use this program you will need the following packages: 
+- bs4 
+- tqdm
+- pandas
+- matplotlib
+- numpy
+- requests
 
 You will need to have the src folder and the data folder in the same parent directory to run static mode.
 
